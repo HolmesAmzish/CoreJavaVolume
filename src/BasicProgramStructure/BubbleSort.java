@@ -1,7 +1,6 @@
 package BasicProgramStructure;
 
 import java.util.Scanner;
-
 /**
  * Bubble sort
  * @version 1.0 2024-09-29
