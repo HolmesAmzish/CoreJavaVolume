@@ -1,4 +1,4 @@
-package BasicProgramStructure;
+package Homework;
 
 import java.util.Scanner;
 /**

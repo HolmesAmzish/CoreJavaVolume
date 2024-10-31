@@ -4,6 +4,11 @@ import java.util.List;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/**
+ * Assignment 1
+ * @version 1.0 2024-10-9
+ * @author Holmes Amzish
+ */
 public class FindKing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
