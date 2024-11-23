@@ -1,4 +1,4 @@
-package Homework;
+package University;
 
 /**
  * Assignment 4

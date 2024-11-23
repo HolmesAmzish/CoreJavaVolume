@@ -1,4 +1,4 @@
-package Homework;
+package University;
 
 public class FallingBall {
     public static void main(String[] args) {

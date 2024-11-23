@@ -1,4 +1,4 @@
-package Homework;
+package University;
 
 import java.util.List;
 import java.util.LinkedList;
